@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <inherits name="com.google.gwt.user.User"/>
+    <inherits name="com.google.gwt.user.User"/>
+    <inherits name='com.google.gwt.widgetideas.GWTCanvas'/>
+    <inherits name="com.allen_sauer.gwt.log.gwt-log-OFF" />
+    <extend-property name="log_level" values="INFO"/>
+    <entry-point class="no.eirikb.piratewars.client.Piratewars"/>
+	<!-- Do not define servlets here, use web.xml -->
+</module>
