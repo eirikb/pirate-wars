@@ -40,7 +40,7 @@ public class Piratewars implements EntryPoint {
 
     private int lol;
     private User me;
-    private final String VERSION = "1.0";
+    private final String VERSION = "1.2";
 
     /** Creates a new instance of thevikingbayEntryPoint */
     public Piratewars() {
